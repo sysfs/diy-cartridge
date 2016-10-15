@@ -9,7 +9,7 @@ Versions:
 License: BSD 2-Clause
 Vendor: Nginx, Inc.
 Cartridge-Version: 0.0.1
-Cartridge-Vendor: Sysfs
+Cartridge-Vendor: sysfs
 Categories:
 - service
 - web_framework
